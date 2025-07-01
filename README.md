@@ -27,4 +27,4 @@ WHERE A > 15
 <img src="WhatsApp Image 2025-07-01 at 22.04.45_ae80cd0f.jpg" />
 
 
-! [Alt text](WhatsApp Image 2025-07-01 at 22.04.45_ae80cd0f.jpg)
+! [Alt text](WhatsApp%20Image%202025-07-01%2020at%2022.04.45_ae80cd0f.jpg)
