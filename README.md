@@ -14,3 +14,13 @@ This repository documents the process and steps take on build the DSA Captone pr
   - For Data Cleaning
      1. Data Manipulaton
      2. Data Munching
+
+## SQL Statement
+
+```SQL
+SELECT A,B,C
+WHERE A > 15
+
+```
+
+ 
