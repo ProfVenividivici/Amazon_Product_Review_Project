@@ -10,7 +10,7 @@ guide product improvement, marketing strategies, and customer engagement. As Dat
 ### Data Sources
 The primary source of Data used is Amazon Product Review.xlsx and this is a data that can be easily sourced from an open surce online from Kaggle among others.
 
-<img src="" />
+<img src="Microsoft Excel Image.jpg" />
 
 Microoft Excel
 
@@ -53,7 +53,9 @@ Each question is raised, the formular used and pictorial output is provided.
 From the table given, I took the following steps to calculate discount percentage column:
 -	Insert new column after discounted price.
 -	Type out the function shown below:
+
 ``` Excel
+=(Actual Price - Discounted Price)/Actual Price * 100
 
-
+```
 
