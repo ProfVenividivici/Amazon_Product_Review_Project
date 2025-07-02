@@ -47,9 +47,11 @@ This involves x-raying the analytic questions and providing answers to the quest
 ### Mode of Answer Delivery: 
 Each question is raised, the formular used and pictorial output is provided.
 
-<img src="Average Discount Percentage.png" />
 
 #### What is the average discount percentage by product category?
+
+<img src="Average Discount Percentage.png" />
+
 From the table given, I took the following steps to calculate discount percentage column:
 -	Insert new column after discounted price.
 -	Type out the function shown below:
@@ -73,7 +75,7 @@ From the Pivot table, supply:
 
 ### What is the total number of reviews per category? 
 
-<img src="Number of Products.png" />
+<img src="Sum of Reviews.png" />
 
 From the Pivot table, supply:
 
@@ -86,5 +88,7 @@ From the Pivot table, supply:
 ### Which products have the highest average ratings? 
 
 The Rating Column was sorted by Average. It was also arranged in descending order. The top entry is as shown in the image below.
+
+<img src="Product With Highest Average Rating.png" />
 
 
