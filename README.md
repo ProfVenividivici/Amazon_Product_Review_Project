@@ -91,4 +91,25 @@ The Rating Column was sorted by Average. It was also arranged in descending orde
 
 <img src="Product With Highest Average Rating.png" />
 
+### What is the average actual price vs the discounted price by category? 
+
+<img src="Actual Prive VS Discounted Price.png" />
+
+From the Pivot table, supply:
+
+``` Excel
+-	Row: Category 4
+-	Values: Actual Price (Average), Discounted Price (Average)
+
+```
+
+### Which products have the highest number of reviews? 
+
+The Rating Count column from the main table is sorted in descending order. The highest entry is as shown below.
+
+
+The Rating Column was sorted by Average. It was also arranged in descending order. The top entry is as shown in the image below.
+
+<img src="Product With Highest Average Rating.png" />
+
 
