@@ -47,7 +47,7 @@ This involves x-raying the analytic questions and providing answers to the quest
 ### Mode of Answer Delivery: 
 Each question is raised, the formular used and pictorial output is provided.
 
-<img src="Discount %.png" />
+<img src="Discount20%20%.png" />
 
 #### What is the average discount percentage by product category?
 From the table given, I took the following steps to calculate discount percentage column:
@@ -58,4 +58,17 @@ From the table given, I took the following steps to calculate discount percentag
 =(Actual Price - Discounted Price)/Actual Price * 100
 
 ```
+
+### How many products are listed under each category? 
+
+<img src="Discount20%20%.png" />
+
+From the Pivot table, supply:
+
+``` Excel
+-	Row: Category 4
+-	 Values: Product name (Distinct Count) 
+
+```
+
 
