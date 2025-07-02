@@ -48,7 +48,7 @@ This involves x-raying the analytic questions and providing answers to the quest
 Each question is raised, the formular used and pictorial output is provided.
 
 
-#### What is the average discount percentage by product category?
+#### 1. What is the average discount percentage by product category?
 
 <img src="Average Discount Percentage.png" />
 
@@ -61,7 +61,7 @@ From the table given, I took the following steps to calculate discount percentag
 
 ```
 
-### How many products are listed under each category? 
+### 2. How many products are listed under each category? 
 
 <img src="Number of Products.png" />
 
@@ -73,7 +73,7 @@ From the Pivot table, supply:
 
 ```
 
-### What is the total number of reviews per category? 
+### 3. What is the total number of reviews per category? 
 
 <img src="Sum of Reviews.png" />
 
@@ -85,13 +85,13 @@ From the Pivot table, supply:
 
 ```
 
-### Which products have the highest average ratings? 
+### 4. Which products have the highest average ratings? 
 
-The Rating Column was sorted by Average. It was also arranged in descending order. The top entry is as shown in the image below.
+The Rating Column was sorted by Average. It was also arranged in descending order. The top entries are as shown in the image below.
 
 <img src="Product With Highest Average Rating.png" />
 
-### What is the average actual price vs the discounted price by category? 
+### 5. What is the average actual price vs the discounted price by category? 
 
 <img src="Actual Prive VS Discounted Price.png" />
 
@@ -103,13 +103,10 @@ From the Pivot table, supply:
 
 ```
 
-### Which products have the highest number of reviews? 
+### 6. Which products have the highest number of reviews? 
 
-The Rating Count column from the main table is sorted in descending order. The highest entry is as shown below.
+The Rating Coun Column was sorted. It was also arranged in descending order. The top entry is as shown in the image below.
 
-
-The Rating Column was sorted by Average. It was also arranged in descending order. The top entry is as shown in the image below.
-
-<img src="Product With Highest Average Rating.png" />
+<img src="Product With Highest Number of Reviews.png" />
 
 
