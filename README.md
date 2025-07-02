@@ -71,4 +71,20 @@ From the Pivot table, supply:
 
 ```
 
+### What is the total number of reviews per category? 
+
+<img src="Number of Products.png" />
+
+From the Pivot table, supply:
+
+``` Excel
+-	Row: Category 4
+-	Values: Rating Count (Sum)
+
+```
+
+### Which products have the highest average ratings? 
+
+The Rating Column was sorted by Average. It was also arranged in descending order. The top entry is as shown in the image below.
+
 
