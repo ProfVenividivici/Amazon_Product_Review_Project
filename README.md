@@ -105,8 +105,10 @@ From the Pivot table, supply:
 
 ### 6. Which products have the highest number of reviews? 
 
-The Rating Coun Column was sorted. It was also arranged in descending order. The top entry is as shown in the image below.
+The Rating Column from the main table is sorted. It was also arranged in descending order. The top entry is as shown in the image below.
 
 <img src="Product With Highest Number of Reviews.png" />
+
+
 
 
