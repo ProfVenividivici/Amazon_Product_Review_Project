@@ -109,19 +109,25 @@ The Rating Column from the main table is sorted. It was also arranged in descend
 
 <img src="Product With Highest Number of Reviews.png" />
 
+
 ### 7. How many products have a discount of 50% or more? 
 
 -	Insert new column before Rating column.
 -	Type out the function shown below:
-  
+
 ``` Excel
 
 =IF(Discount Percentage >= 50, “Yes”,”No”)
 
 ```
 -	Check the status bar to identify the Count for ‘Yes’ values.
+
+  <img src="Product with 50% or More Discount.png" />
+
   
 ### 8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)? 
+
+<img src="Product Ratings.png" />
 
 From the Pivot table, supply:
 
@@ -151,6 +157,9 @@ From the Pivot table, supply:
 
 ```
 
+<img src="Total Potential Rating.png" />
+
+
 ### 10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?11. How does the rating relate to the level of discount? 
 
 -	Insert new column called *Price Bucket*.
@@ -161,6 +170,7 @@ From the Pivot table, supply:
 =IF(Discounted Price <= 500, “₹200–₹500”, “>₹500”))
 
 ```
+
 -	From the Pivot table, supply:
   
 ``` Excel
@@ -169,6 +179,7 @@ From the Pivot table, supply:
 
 ```
 
+<img src="Uniques Products.png" />
 
 
 
