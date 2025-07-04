@@ -181,6 +181,77 @@ From the Pivot table, supply:
 
 <img src="Uniques Products.png" />
 
+### 11. How does the rating relate to the level of discount?
+
+Here, a scatter chart was created to show the level of relationship of rating to discount. The following steps enunciate the process:
+-	First, use a pivot table to supply 
+  
+``` Excel
+-	Row: Discount Percentage
+-	Values: Sum of Average Rating
+
+```
+<img src="Rating Relationship With Discount (Pivot Table).png" />
+
+
+-	Though, Excel don’t support the use of pivot table to create scatter chart.
+-	Thus, copy out the output and paste an excel table.
+-	Then, insert scatter chart from the insert tab.
+-	Select using chart table
+  
+``` Excel
+-	X-axis: Discount Percentage
+-	Y-axis: Sum of Average Rating
+
+```
+
+<img src="Rating Relationship With Discount (Scatter Chart Table).png" />
+
+
+### 12. How many products have fewer than 1,000 reviews? 
+
+To obtain this value, filter Rating Count column by < 1000. Then, use the status bar to verify the answer.
+
+<img src="Products with less than 1000 Reviews.png" />
+
+### 13. Which categories have products with the highest discounts? 
+
+-	From the Pivot table, supply:
+  
+``` Excel
+-	Row: Category 4
+-	Values: Discount Percentage (Max)
+
+```
+
+<img src=".png" />
+
+
+### 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+-	Insert new column called *Rating+Rating Count*.
+-	Type out the function shown below:
+
+``` Excel
+
+=Average Rating + (Rating Count * 1000)
+
+```
+-	Note that 1000 was used as a scaling factor in rating count.
+-	Then sort in descending order (Top 5 pick)
+
+## Project Insights and Summary
+From the analyzed data and dashboard provided, the following conclusions were arrived at: 
+-	Products with 4.1 ratings has the highest number of sales.
+-	Some data were unlabeled and could not have been expunged so and not to alter the integrity of the dataset.
+-	There were more sales on products within this range bucket ₹200 - ₹500, than others.
+-	To drive logical sales that will bring about optimum profit, it is advisable to minimize the issuance of high discounts on products. Though it helped to increase rating to products, but sales need to align with business objectives.
+
+
+## Conclusion
+
+To have a better understanding of the analysis done, navigate through the interactive dashboard and cleaned excel files attached to this project. Thank you.
+
 
 
 
