@@ -196,6 +196,10 @@ Here, a scatter chart was created to show the level of relationship of rating to
 
 -	Though, Excel don’t support the use of pivot table to create scatter chart.
 -	Thus, copy out the output and paste an excel table.
+
+<img src="Rating Relationship With Discount (Scatter Chart Table).png" />
+
+
 -	Then, insert scatter chart from the insert tab.
 -	Select using chart table
   
@@ -204,8 +208,7 @@ Here, a scatter chart was created to show the level of relationship of rating to
 -	Y-axis: Sum of Average Rating
 
 ```
-
-<img src="Rating Relationship With Discount (Scatter Chart Table).png" />
+<img src="Scatter Chart.png" />
 
 
 ### 12. How many products have fewer than 1,000 reviews? 
@@ -224,7 +227,7 @@ To obtain this value, filter Rating Count column by < 1000. Then, use the status
 
 ```
 
-<img src=".png" />
+<img src="Discount %.png" />
 
 
 ### 14. Identify the top 5 products in terms of rating and number of reviews combined.
@@ -237,10 +240,16 @@ To obtain this value, filter Rating Count column by < 1000. Then, use the status
 =Average Rating + (Rating Count * 1000)
 
 ```
+
 -	Note that 1000 was used as a scaling factor in rating count.
 -	Then sort in descending order (Top 5 pick)
 
+<img src="Top 5 Products-Rating & Review.png" />
+
 ## Project Insights and Summary
+
+<img src="Amazon Project Dashboard.png" />
+
 From the analyzed data and dashboard provided, the following conclusions were arrived at: 
 -	Products with 4.1 ratings has the highest number of sales.
 -	Some data were unlabeled and could not have been expunged so and not to alter the integrity of the dataset.
