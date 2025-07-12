@@ -191,15 +191,11 @@ Here, a scatter chart was created to show the level of relationship of rating to
 -	Values: Sum of Average Rating
 
 ```
-<img src="Rating Relationship With Discount (Pivot Table).png" />
+<img src="Rating Relationship With Discount (Excel Table).png" />
 
 
 -	Though, Excel don’t support the use of pivot table to create scatter chart.
 -	Thus, copy out the output and paste an excel table.
-
-<img src="Rating Relationship With Discount (Scatter Chart Table).png" />
-
-
 -	Then, insert scatter chart from the insert tab.
 -	Select using chart table
   
@@ -227,7 +223,7 @@ To obtain this value, filter Rating Count column by < 1000. Then, use the status
 
 ```
 
-<img src="Discount %.png" />
+<img src="Categories With Highest Discounts.png" />
 
 
 ### 14. Identify the top 5 products in terms of rating and number of reviews combined.
