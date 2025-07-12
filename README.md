@@ -1,5 +1,5 @@
 # Project Title: Amazon_Product_Review_Project
-This repository documents the process and steps take on build the DSA Captone project on Excel, Amazon Product Review.
+This repository documents the process and steps taken on to build the DSA Captone project on Excel, Amazon Product Review.
 
 ### Project Topic: Amazon Project Review
 
@@ -8,7 +8,7 @@ This data analysis project aims at analysing product and customer review data to
 guide product improvement, marketing strategies, and customer engagement. As Data Analyst at RetailTech Insights, we have been tasked with carrying out Exploratory Data Analysis on the given data set.
 
 ### Data Sources
-The primary source of Data used is Amazon Product Review.xlsx and this is a data that can be easily sourced from an open surce online from Kaggle among others.
+The primary source of Data used is Amazon Case Project New.xlsx and this is a data that can be easily sourced from an open surce online from Kaggle among others.
 
 <img src="Microsoft Excel Image.jpg" />
 
