@@ -93,7 +93,7 @@ The Rating Column was sorted by Average. It was also arranged in descending orde
 
 ### 5. What is the average actual price vs the discounted price by category? 
 
-<img src="Actual Prive VS Discounted Price.png" />
+<img src="Average Actual Price VS Discounted Price.png" />
 
 From the Pivot table, supply:
 
